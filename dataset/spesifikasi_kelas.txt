@@ -1,0 +1,8 @@
+Dataset pada kompetisi ini terdiri dari citra wajah yang dikelompokkan ke dalam enam kategori utama sebagai berikut:
+
+realperson: Merepresentasikan citra wajah asli dari individu tanpa adanya manipulasi maupun serangan.
+fake_printed: Menggambarkan serangan menggunakan media foto cetak (print attack) untuk mengelabui sistem.
+fake_screen: Merupakan serangan yang memanfaatkan tampilan wajah melalui perangkat digital, seperti layar smartphone atau monitor.
+fake_mask: Mengacu pada penggunaan masker wajah, termasuk masker 3D atau berbahan silikon, sebagai bentuk serangan.
+fake_mannequin: Menunjukkan serangan yang menggunakan replika wajah manusia, seperti mannequin.
+fake_unknown: Mencakup berbagai jenis serangan spoofing lain yang tidak termasuk dalam kategori yang telah didefinisikan sebelumnya.
